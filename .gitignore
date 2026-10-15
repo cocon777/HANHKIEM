@@ -1,0 +1,14 @@
+# ===== File chứa thông tin nhạy cảm (Uid/Pwd MySQL) - KHÔNG commit =====
+appsettings.json
+
+# ===== Thư mục build của .NET =====
+**/bin/
+**/obj/
+
+# ===== File/thư mục của VS Code, Visual Studio =====
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.user
